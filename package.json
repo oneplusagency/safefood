@@ -10,7 +10,7 @@
   "dependencies": {
     "@ckeditor/ckeditor5-react": "^3.0.0",
     "ckeditor-build-with-simple-upload-provider-strapi": "^1.0.7",
-    "knex": "<0.20.0",
+    "knex": "<2.5.0",
     "sqlite3": "latest",
     "strapi": "3.3.2",
     "strapi-admin": "3.3.2",
